@@ -1,0 +1,4 @@
+# hard dependencies, pandas extension interface isn't a stable feature yet
+pandas==1.1.4
+numpy==1.18.1
+pyarrow==3.0.0

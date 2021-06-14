@@ -1,0 +1,55 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Xamarin Studio Project files
+*.mdw
+*.sln
+*.dproj
+*.userprefs
+*.mdproj
+
+# Build stuff
+bin
+obj
+
+# Code coverage files
+*.lst
+
+# Profile files
+trace.def
+trace.log
+
+# DDoc files
+etc/docs
+modules.ddoc
+
+# Mac OS Stores
+.DS_Store
+
+# editor config
+dscanner.ini
+.vscode
+
+# connection config
+quincy/service/config
+
+# python
+*.egg-info
+.ipynb_checkpoints
+__pycache__
+
+# bindings artifacts
+.preprocessed
+
+.dub

@@ -1,0 +1,13 @@
+{
+	"name": "darrow",
+	"authors": [
+		"Silverleaf capital services"
+	],
+    "description": "Apache Arrow bindings for D using the Glib C interface",
+    "homepage": "https://github.com/silverleafcaps/darrow",
+    "license": "Apache 2.0", 
+    "libs": ["arrow-glib", "gobject-2.0", "arrow", "glib-2.0"], 
+    "sourcePaths": [
+        "darrow"
+    ]
+}
